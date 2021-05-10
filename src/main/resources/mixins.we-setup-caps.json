@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.we-setup-caps.refmap.json",
+    "package": "rmc.mixins.we_setup_caps.actual",
+    "mixins": [
+        "PlatformManagerMixin"
+    ]
+}
